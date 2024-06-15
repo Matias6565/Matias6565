@@ -1,7 +1,7 @@
 ## Oi! Bem vindo de volta -- Hi! Welcome back
 
 - 👋 I’m @Matias6565
-- 🎒 I’m currently a Ph.D. Student at UFBA - Brazil 🇧🇷
+- 🎒 I’m currently a Ph.D. Candidate at UFBA - Brazil 🇧🇷
 - 😁 I’m currently researching in some computer fields like computer networks, network simulations, and machine learning.
 <!---
 Matias6565/Matias6565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
